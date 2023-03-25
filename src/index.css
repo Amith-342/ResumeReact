@@ -1,0 +1,158 @@
+body{
+    padding:30px;
+    color:rgb(63 58 58);
+    
+  }
+  
+  .fullContainer{
+    width: 61rem;
+    background-color: rgb(230 230 230);
+    position: absolute;
+    left: 27%;
+    padding: 5% 10%;
+    
+    color:rgb(121 113 113);
+  }
+  
+  
+  .card-container{
+    width:30%;
+    margin:5px;
+    display: inline-block;
+    
+  }
+  
+  .myBtn{
+    margin:15px;
+    
+    display: inline-block;
+    width:10rem;
+  }
+  
+  
+  
+  .navbar{
+    height:100px;
+    width:63%;
+    background-color: rgb(172, 112, 229);
+    border-radius: 10px;
+    padding:5px;
+    position: relative;
+    left:20%;
+    margin-bottom: 15px;
+    
+  }
+  
+  .card{
+    width:18rem;
+    display: inline;
+  }
+  #newsId{
+    width:25rem;
+    height: fit-content;
+    margin:10px;
+    display:inline-table;
+    justify-items: center;
+    
+  }
+  .newsImg{
+    width:16rem;
+    height:auto;
+    margin:15px;
+    justify-self: center;
+  }
+  
+  .links{
+    position: relative;
+    top:60px;
+  }
+
+  .bTitle{
+    position: relative;
+    left:91px;
+  }
+  
+  
+.nameTitle{
+  text-align: center;
+}
+
+
+.projBtn{
+  display: inline;
+  text-decoration: none;
+  text-decoration-color: black;
+  position: relative;
+  left: 30rem;
+  bottom: 3.25rem;
+  
+  margin:0;
+}
+
+#btnProj{
+  width: 8rem;
+    height: 2.5rem;
+    background-color: rgb(148 148 148);
+    font-size: 1.17rem;
+    padding: 2px;
+    color: rgb(234 234 234);
+}
+
+.start{
+font-size: 2rem;
+color:rgb(161 161 161);
+margin:2rem 0 1rem auto;
+}
+
+.mid1{
+position: relative;
+left:0.175rem;
+top:10%;
+color:rgb(133 123 123);
+
+}
+
+.mid2{
+  position: relative;
+  left: 1.5rem;
+  color:rgb(133 123 123);
+}
+
+.end{
+  position: relative;
+  left:0rem;
+  color:rgb(63 58 58);
+}
+.schl{
+  position: relative;
+  left:2rem;
+}
+
+a.end{
+  position: relative;
+  left:2rem;
+  
+}
+
+.lan{
+  margin-top:1.25rem;
+}
+
+.proj{
+  position: relative;
+  bottom: 2.6rem;
+  margin-bottom: 1.1rem;
+}
+
+a{
+  text-decoration: none;
+}
+
+.edu{
+  margin-top:-1.5rem;
+}
+
+
+#btnProj:hover{
+  background-color: black;
+}
